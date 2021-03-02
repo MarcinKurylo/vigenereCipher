@@ -9,11 +9,11 @@ public class Decoder extends EncoderDecoder{
 
     public Decoder(char key, String toDecode) {
         super(key);
-        this.toDecode = toDecode;
+        this.toDecode = toDecode.toUpperCase();
     }
 
     public void setToDecode(String toDecode) {
-        this.toDecode = toDecode;
+        this.toDecode = toDecode.toUpperCase();
     }
 
     private char decodeChar(char c1, char c2){

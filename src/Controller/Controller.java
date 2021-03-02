@@ -33,7 +33,7 @@ public class Controller {
     private String getMessage(char mode){
         String displayedMode = mode == 'D' ? "decode" : "encode";
         System.out.println("Insert message to " + displayedMode + ":");
-        return scanner.nextLine();
+        return scanner.nextLine().toUpperCase();
     }
 
     private char getKey(){

@@ -1,5 +1,3 @@
-package vigenereCipher;
-
 import Controller.*;
 
 public class Main {

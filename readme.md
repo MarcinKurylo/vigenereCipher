@@ -1,6 +1,6 @@
-#Vigenère autokey cipher
+# Vigenère autokey cipher
 
-###Java implementation of [Vigènere cipher](https://en.wikipedia.org/wiki/Vigenère_cipher).
+### Java implementation of [Vigènere cipher](https://en.wikipedia.org/wiki/Vigenère_cipher).
 
 Key is generated automatically through
 iterating over plaintext with one supplementary 

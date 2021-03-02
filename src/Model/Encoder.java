@@ -1,6 +1,4 @@
-package vigenereCipher;
-
-import com.sun.jdi.VirtualMachine;
+package Model;
 
 import java.text.CharacterIterator;
 import java.text.StringCharacterIterator;

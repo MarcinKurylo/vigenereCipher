@@ -1,4 +1,4 @@
-package vigenereCipher;
+package Model;
 
 import java.text.CharacterIterator;
 import java.text.StringCharacterIterator;

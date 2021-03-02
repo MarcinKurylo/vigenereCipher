@@ -1,4 +1,4 @@
-package vigenereCipher;
+package Model;
 
 public abstract class EncoderDecoder {
 
